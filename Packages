@@ -1,32 +1,14 @@
-Package: co.dynastic.ios.lib.flora
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
-Installed-Size: 492
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Filename: ./debs/co.dynastic.ios.lib.flora_1.0_iphoneos-arm64.deb
-Size: 91954
-MD5sum: 95d51f652ca10f91bf535bb2c363a59b
-SHA1: abce1ca8fe335539dafb4010a7f5f29a3a9ae554
-SHA256: b0bdab3abb19d844fa1d641380e33763880f8473b26cfe4e2a45862b01b13ba0
-Section: Tweaks
-Description: Common Dynastic utilities.依赖！ShortLook插件依赖！
-Tag: role::developer
-Author: Dynastic
-Name: libflora插件依赖-Rootless
-Sponsor: Axs
-
 Package: com.0xkuj.bubbleapps
 Version: 3.0.0
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: 0xkuj
 Installed-Size: 808
 Depends: com.opa334.altlist
 Filename: ./debs/com.0xkuj.bubbleapps_3.0.0_iphoneos-arm64.deb
-Size: 256790
-MD5sum: 760ed555b3718295418eae0cc502722c
-SHA1: 1a3a913cc56fa97d6b9b72a9413fd68275ec8b77
-SHA256: e1f5472b92b5615345f774f3795924d87a9a5d7bce599d08e7e52d2524594878
+Size: 256744
+MD5sum: e56b07e8fa78645a58e67ff6c02387d0
+SHA1: 250ad3d8735e788dbbffa9aaf48808e4077b7509
+SHA256: 7af801f50fd32c3ce1136100f165e33df9ebe941396ea9975d79c1e170bd33f1
 Section: Tweaks
 Description: Floating app buttons anywhere you want。浮动应用按钮在您想要的任何地方
 Author: 0xkuj
@@ -37,13 +19,13 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/bubbleapps/js.json
 Package: com.0xkuj.filzadirprobe
 Version: 1.7.1
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: 0xkuj
 Installed-Size: 240
 Filename: ./debs/com.0xkuj.filzadirprobe_1.7.1_iphoneos-arm64.deb
-Size: 33162
-MD5sum: de7f668abf91ab5ce5442c871c263fcc
-SHA1: 68deea480fa9900a041fca935f509ef2c3497d96
-SHA256: 4ccf2576ec21b3861248674883880c38aa7b7f93f923a4b199a1781513c1d9c2
+Size: 33092
+MD5sum: efe3c0060110625ab4d0ee553182ccb0
+SHA1: 7e077386f8eb3e7af409709f4794234bb9230445
+SHA256: 04ceee20913552145e2d50b182db20b1b254ffe56de937b67bc79640fa0d8dce
 Section: Tweaks
 Description: 计算Filza里文件夹大小。
 Author: 0xkuj
@@ -54,14 +36,14 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/filzadirprobe/js.js
 Package: com.0xkuj.notificationsgroupcount
 Version: 1.0.7
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: 0xkuj
 Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.7_iphoneos-arm64.deb
-Size: 80014
-MD5sum: edb791815f22cee5601e648b411763bc
-SHA1: a098e23d528863180aea376907b26615a1d44f47
-SHA256: 7107f6aba45b6da40e04240b5cf289919985f576dce8c205200696ba20140a90
+Size: 79968
+MD5sum: a7fdee82b7e8df240087b107d9c50eb9
+SHA1: 4a509e48ee3bd46e684ba999aa43a061758cf810
+SHA256: c42057c046873393387a99da69155507a87f35450a967c8875c98d5bc5314dad
 Section: 系统增强
 Description: Count those notifications inside Apple notifications grouping!
 Author: 0xkuj
@@ -72,13 +54,13 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/js.json
 Package: com.0xkuj.safarix
 Version: 1.9.9.1
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debs/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64.deb
-Size: 315482
-MD5sum: bcd4221671a2b097e171978a4b829176
-SHA1: c004c25cb247d5c871dc0179ecc588a7e4917614
-SHA256: 03707673e1a8f06295d34b72b810bb10cc3a388434c9ad6a95dd8f029e65afd9
+Size: 315428
+MD5sum: 3d4779d714df7e3e18e1d516ba7e45a7
+SHA1: b4974a2ed4089b54d9a08786285904718716a196
+SHA256: 277fedc8482df13c0cface4d38162487d6137af5fceda9777e9a84d187b40700
 Section: 系统增强
 Description: 此插件为iPhone自带浏览器增强插件，功能非常的多，强烈建议用safari的用户下载！
 Author: 0xkuj
@@ -89,14 +71,14 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/safarix/js.json
 Package: com.Axs.aerial
 Version: 1.1
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: uz.ra
 Installed-Size: 692
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.aerial_1.1_iphoneos-arm64.deb
-Size: 107716
-MD5sum: 7879180a4a4c5e005763ae6da56cab01
-SHA1: 42ffc8509cffef2079a960d5a618e56f3f025a30
-SHA256: dc0946da87a120a6ed95a240a730f4f70e9ac68b005d0e2105756884baa14ac5
+Size: 107688
+MD5sum: 2d6ccab68083cde6528d69f0e644d001
+SHA1: b1e001f235b718eea85ecab369b83c72c33a50b9
+SHA256: ae71b48f45dedc447c16d8187c72e4678d6a010b6b0077ba477c07e6212ddc8a
 Section: 分屏插件
 Description: Stage Manager, redesigned for iOS
 Author: uz.ra
@@ -107,13 +89,13 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/aerial/js.json
 Package: com.Axs.airaw
 Version: 1.6.7
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
 Filename: ./debs/com.Axs.airaw_1.6.7_iphoneos-arm64.deb
-Size: 5898374
-MD5sum: 5ffc07c60561a2c18c31be4b55c2829e
-SHA1: 6800b6a336ff70ac263e5371aafa84bc45432ec0
-SHA256: ed4e98be79820595cbad28ce66bc42e982432ec6c5821582c5e80d1ebfeb86f3
+Size: 5898292
+MD5sum: ac1d1e758be97cc6512e28c0604f82f6
+SHA1: 2fc9873b0351f6d3ed5fac0e232eecc34ed53dad
+SHA256: 4c975d3e91425db9a4cd9cf9a0deb19fc6822918c2e99e68836f113233a799f9
 Section: Tweaks
 Description: Carplay拓展插件，可以改壁纸，让不是全屏显示的软件变成全屏，配合carbrige插件使用，改图标个数比例。
 Author: Dcsyhi
@@ -124,13 +106,13 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/airaw/js.json
 Package: com.Axs.akara
 Version: 2.0.2
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
 Filename: ./debs/com.Axs.akara_2.0.2_iphoneos-arm64.deb
-Size: 613748
-MD5sum: 087939011a56a380ff809db841a4c1c8
-SHA1: 608dff19897bfdd138a57a2b7d7845af0ad389cb
-SHA256: 055ff60e3f9447dbececa875418710b2f762a369342eb127f7e49e53239e218e
+Size: 613692
+MD5sum: 1f4ca8f0c564e89e8fca5c635973e3ac
+SHA1: 00996a61a03ece0e11bf1d9c5951942c57aab112
+SHA256: ffa6167eaa6d1a11aee820187c76c185da353cc7fb4ed7dd6aa01e4e7eb34dec
 Section: 控制中心
 Description: Minimal design without compromise控制中心美化
 Author: Tr1Fecta & Kennyroo
@@ -142,14 +124,14 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/akara/js.json
 Package: com.Axs.anitime
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Installed-Size: 1488
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
 Filename: ./debs/com.Axs.anitime_1.0_iphoneos-arm64.deb
-Size: 392470
-MD5sum: f043bb08c843188e245706468ed7c037
-SHA1: c4cae5b83b482f408c51de8d082245fb98869dad
-SHA256: d5f551c2ebfe565f1a208cea6af983eef9942cb824decee674d7b3ed4ab64f5f
+Size: 392420
+MD5sum: ec57c42f2a73d7ff43fcac35df02739b
+SHA1: c20e947b39454e5829261d2a7e576e64822d039b
+SHA256: 77545888d71c58caa8a7e97d8aa8c25372dfe6c1bdf288a6422952d3a7a03d68
 Section: 系统增强
 Description: 控制中心时间采用动画形式显示
 Author: yan
@@ -161,13 +143,13 @@ Sponsor: Axs
 Package: com.Axs.appaze3
 Version: 1.0.1
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.axs.anthocrack2
 Filename: ./debs/com.Axs.appaze3_1.0.1_iphoneos-arm64.deb
-Size: 867522
-MD5sum: 565fc2e3434a356dfff0620b9ad2b061
-SHA1: 997dbd0cd84122f0a81bf4bf1eeb510625dc39ab
-SHA256: b8a11e482c634d6f47da21c1451d8a0dca5f6902294c3105e30c41edae874b7e
+Size: 867472
+MD5sum: 60bcb72074a32b41d8a30e85f711be93
+SHA1: a9c01f48f8d1d64e9106f966d6d291d931af253a
+SHA256: 03f57f5ef33e06f49957480311d984303125f001adf8615ca87383a13fb0c8ba
 Section: 系统增强
 Description: 用干净友好的UI自定义每个应用程序最多30个设置，易于访问！
 Author: AnthoPak
@@ -179,14 +161,14 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/appaze3/js.json
 Package: com.Axs.arise
 Version: 1.2.3
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: EthanRDoesMC
 Installed-Size: 1492
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
 Filename: ./debs/com.Axs.arise_1.2.3_iphoneos-arm64.deb
-Size: 823548
-MD5sum: 37dee08a9b9c3c7574f91519b214ca39
-SHA1: bc1d0232a80c142ec4d20f1bbb0897a76da470dd
-SHA256: 7b8cde8b44faca39d1506d8e59d60a932111a1af8d2c7e467bff708282594c8f
+Size: 823500
+MD5sum: 4cbce2ae4a508e2266ed40b5625dd801
+SHA1: 262966ec05a09560a2745ef9b15e7da5f2a71dcc
+SHA256: 3fadb84174dc47cfd6dbd9e09c159e034391ed631379bae213ecd5a7b41e4dac
 Section: 系统增强
 Description: 自定义并自动化您的锁定屏幕。
 Author: EthanRDoesMC
@@ -197,14 +179,14 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/arise/js.json
 Package: com.Axs.carbridgecarplay
 Version: 2.0.15
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs <qiaozhani000@163.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
 Filename: ./debs/com.Axs.carbridgecarplay_2.0.15_iphoneos-arm64.deb
-Size: 434652
-MD5sum: 49d4ee80ebae0ab13d4e53efb1ae909d
-SHA1: a33ae9a1c9eb1bcea1cd46a0d0367d32aadd43c4
-SHA256: 7dd6fe4a66aca96713cdc629e6ad002340d9f803042ecb5ae4a6e93cc28af863
+Size: 434584
+MD5sum: 5870c058534eaf276d6a28233c4ef559
+SHA1: 968c76c71e2a92ef2bd6416e75324bf881ab76be
+SHA256: 95f06547b0ddadabd531e7295592b17ae177af0b8ce6e3418961ff5556ca2c30
 Section: Tweaks
 Description: Open any app in CarPlay!让不支持互联的软件显示在车机上！
 Author: leftyfl1p <qiaozhani000@163.com>
@@ -215,13 +197,13 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/CarBridge/js.json
 Package: com.Axs.centra
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs <qiaozhani000@163.com>
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.centra_1.0_iphoneos-arm64.deb
-Size: 54594
-MD5sum: 604e610991a26be7db12737d21896518
-SHA1: 999b361511941e3cd2208f3c5e27f610b128b373
-SHA256: 2549265743740ab7e53dd5661e5da0007227c88723b187c93f30e27ccf1ce60b
+Size: 54548
+MD5sum: 75c2c906d463492f4dba067e28f35bfc
+SHA1: b2a6c1e71e36978be602a57e09f10a5795a1d398
+SHA256: 8c623fa1e13533aa32b77ee34c870829bee69a19f4f4660ed9c65e2513970952
 Section: 控制中心
 Description: 自定义控制中心中模块的大小，包括连接和其他模块。
 Author: Hitori <qiaozhani000@163.com>
@@ -232,15 +214,15 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/centra/js.json
 Package: com.Axs.crane
 Version: 1.3.16-4
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: opa334
 Installed-Size: 3232
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./debs/com.Axs.crane_1.3.16-4_iphoneos-arm64.deb
-Size: 603624
-MD5sum: 7fe742fc2c876fce819166019db2864a
-SHA1: 9675689f06607de85e729b3bf9cac1566c157146
-SHA256: 1ede6a84db34fee851811e76239d9cbb11562781fe24cf45a92515a55268fb75
+Size: 603492
+MD5sum: 213b4a3a9aa2b9adf63d0c0abca3c742
+SHA1: 49dd95149bbda14344deeca2632293882096675a
+SHA256: 06f80079f0f2a45864c3325a277bccee99998f0af496c3385e809656e9bc2993
 Section: 系统增强
 Description: Multiple containers for your applications!让你的 APP 应用程序的多开！
 Author: opa334
@@ -251,13 +233,13 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/crane/js.json
 Package: com.Axs.dleasy
 Version: 2.14.8
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.dleasy_2.14.8_iphoneos-arm64.deb
-Size: 5553994
-MD5sum: c4c175da19624d4ed1cfa49df2c54a11
-SHA1: 774738998bce7dff5f075e97210ae7af3263cbf4
-SHA256: 74001984d1dbf9d2aec94030d4f93ab7b8dd1c2a16eb26ac591d5c64ba963591
+Size: 5553976
+MD5sum: f8fa461d69cc37c01082664abb20fc34
+SHA1: 1ec51bcf3aae3a457e12839d52f12ce699e13430
+SHA256: 0a5b52affe5f3d960a46583dc74b8fd4658cf70e3e326c964581bfc2eeccb73c
 Section: Tweaks
 Description: Download/Share images & videos from social apps easily!
 Author: AhmedBafkir
@@ -269,14 +251,14 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/dleasy/js.json
 Package: com.Axs.floaty
 Version: 1.2
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: EllaSP
 Installed-Size: 512
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debs/com.Axs.floaty_1.2_iphoneos-arm64.deb
-Size: 59812
-MD5sum: 105d0fc96dceb7386e844aa177b069b2
-SHA1: ccfd49e3e230df14f5c1b6a79f51911b0e468eac
-SHA256: 2ca6927bfa6ef2fa77ed79eb7a3292f40c3b61b981d774b664c555df97b62f1e
+Size: 59748
+MD5sum: 91274fbcd4e274bd6d9df6c9f3fe063b
+SHA1: 23192dd7afb9604f428212302a529f70d887d69e
+SHA256: ba2b8f0f3737ef8360cf3706c51e06b2b5c6757da5d0cbd0d6fc8b576d9c0c4e
 Section: 系统增强
 Description: Floaty：您的横幅，重新构想。这是一个完整的通知中心，围绕直观的手势和深层定制。
 Author: EllaSP
@@ -287,14 +269,14 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/floaty/js.json
 Package: com.Axs.jade
 Version: 1.0.5
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Nightwind & thetimeloop
 Installed-Size: 1502
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
 Filename: ./debs/com.Axs.jade_1.0.5_iphoneos-arm64.deb
-Size: 307860
-MD5sum: 66e0432edf8d8b1bc273e183232a4bdb
-SHA1: 5258188118dc050c8e849765abeab14f9f404319
-SHA256: 96fa6428bada1604aa7d4d535a318b38909ee2f705219680c7e11561fbec0815
+Size: 307808
+MD5sum: b2597ba33f7726ffbcbeb2264d93996a
+SHA1: adceaab134bd825964e7b77541c27777ffc8aae0
+SHA256: 363a6aaf6903fb59c634d56a2adf6e92c0a208113237a7003ff56178233c6135
 Section: 系统增强
 Description: 控制中心插件。
 Author: Nightwind & thetimeloop
@@ -305,20 +287,20 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/jade/js.json
 Package: com.Axs.looky
 Version: 1.2
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: EllaSP
 Installed-Size: 460
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debs/com.Axs.looky_1.2_iphoneos-arm64.deb
-Size: 56330
-MD5sum: 14b5807eb00e55396c6ef67c5aa9074e
-SHA1: 2bf2738f8d942936906026da92fee30a2289d6eb
-SHA256: 624f69afc25cd8b338c3263f48462e29c75b9ad301204c09a0c01139ed57acd0
+Size: 56264
+MD5sum: aa013c07560504be30fe26637f20fda7
+SHA1: 64b23892721e769de0a965aa1f30dd72609da628
+SHA256: 6208e3dbd56611978d5939703e830755a2f3bb279cf7f50a1ec72c0ab4451fb2
 Section: 系统增强
 Description:
-    Effortless Elegant lock screen notification experience!
-     * 很炫酷的锁屏通知。
-     * 功能介绍：
-     * 比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。
+ Effortless Elegant lock screen notification experience!
+  * 很炫酷的锁屏通知。
+  * 功能介绍：
+  * 比如微信，锁屏界面显示App图标及消息详情，边框跑马灯设计，颜色可以自定义。
 Author: EllaSP
 Icon: https://axs666.github.io/repo/icon/looky.png
 Name: Looky 锁屏通知
@@ -327,13 +309,13 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/looky/js.json
 Package: com.Axs.lynxtwo
 Version: 2.5.4
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Filename: ./debs/com.Axs.lynxtwo_2.5.4_iphoneos-arm64.deb
-Size: 677640
-MD5sum: 33df75266f78a8f320a199d86d59d54f
-SHA1: 23d7ea1b9d392023545eb3fb1b6c6130c99b1e9e
-SHA256: 92feb92d5c0971c0fbfc2e0b47ffdac4fefdabe02e3981aafc499936da3ca560
+Size: 677596
+MD5sum: 59a3da6326ce0a24aa3d8d3b03bedd94
+SHA1: fea8c7ebc9f727606dcce95076386f4af84f73d3
+SHA256: cfadeaef801a8974f6425d0dcf05e8ae91773ad636ca4146c4fe3dd7f1b1e997
 Section: 系统增强
 Description: iOS 14、15和16的最终IDEVICE自定义
 Author: MTAC
@@ -345,16 +327,16 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/lynx2/js.json
 Package: com.Axs.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Nightwind
 Installed-Size: 1084
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.creaturecoding.shuffle
 Replaces: com.twickd.nightwind.onesettings
 Filename: ./debs/com.Axs.onesettings_2.2_iphoneos-arm64.deb
-Size: 207402
-MD5sum: 1ebeb9ed23bf594067b760d032a1d9eb
-SHA1: 5922eeebf24b576c967f44eed56b8db1e4992dcb
-SHA256: 20a5b1e6733dc4269be3de5a295099991324680dff04b38ad6a58a434a4eee06
+Size: 207372
+MD5sum: 821496a9819563841ad3399f9fc80b6c
+SHA1: 28efd72c042d320aef084427fe581bd126e3297d
+SHA256: 1d41c35e55d498647f0835b6826bc5470e8706f68aaa1db9352bdb692eb0722b
 Section: Tweaks
 Description: A great enhancement to your Settings App!
 Author: Nightwind
@@ -365,15 +347,15 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/onesettings/js.json
 Package: com.Axs.smartnetwork
 Version: 1.1
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Installed-Size: 1272
 Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common
 Conflicts: com.eliassfeir.smartnetwork
 Filename: ./debs/com.Axs.smartnetwork_1.1_iphoneos-arm64.deb
-Size: 286410
-MD5sum: b7260ab91abc8a6a3df65d7ae1b381ab
-SHA1: 2bf628043a538695336d234a4d02c0f697edc392
-SHA256: f8e69243d94195b142bdac8233a39b56cb46e25e45cfd0a7722faea59b986b3a
+Size: 286348
+MD5sum: aea8e29ca0011fbad756b27802b57bde
+SHA1: 6269239052acd3ddb038f48456139daa125e792c
+SHA256: 2aee977bb0d35f8c8a537dbf22cfbce0af39d02b7d9ef249e0898e5d3dda3a62
 Section: 系统增强
 Description: 可以信任当前Wi-Fi/蓝牙等，直接解锁手机，其他的功能自己研究。
 Author: elias
@@ -385,13 +367,13 @@ Sponsor: Axs
 Package: com.Axs.stella
 Version: 1.1.3
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
 Filename: ./debs/com.Axs.stella_1.1.3_iphoneos-arm64.deb
-Size: 365316
-MD5sum: ec11d689650e5e1599cb8784979ba3fb
-SHA1: 116cc17cab4886be905c8cfcddea9307d34bcf33
-SHA256: 428b8156f62bc35c08e752b5a18101a4b5c28e837665284ebb33b355aa8c544d
+Size: 365288
+MD5sum: 7843db21d2f38ad6fba84aad183720fe
+SHA1: 03f95247761a9ff7d36370990310b21f9e945f1b
+SHA256: 639f8f1f5cb1be342099a2e90ed679459ba792f2256167271a64c6d885c83998
 Section: 系统增强
 Description: Let it snow on your device!
 Author: yan
@@ -403,14 +385,14 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/stella/js.json
 Package: com.Axs.zeppelinreborn
 Version: 1.4.2
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
 Provides: com.alexzielenski.zeppelin
 Filename: ./debs/com.Axs.zeppelinreborn_1.4.2_iphoneos-arm64.deb
-Size: 2980912
-MD5sum: 23b985edb0ca7468648ec23950d5dd84
-SHA1: 4c66420ff045d5db34d934f469d7076e0817d6ea
-SHA256: f159d8b0cb9cd70d30c93b82f2852d6c83a99318a9bf6ef2d281fb7cfa673741
+Size: 2980860
+MD5sum: 37d7737e2cea30c77d385870dcd61719
+SHA1: 4aaa949c0ab1efa9c70e4219c72708593c69881c
+SHA256: 8b5cfe53eeb70068730b6fc5165bc7dc11ee44826be6e7847a263b71e0ac7646
 Section: Tweaks
 Description: 在运营商文本或时间旁边添加图像或GIF！
 Author: Hitori
@@ -422,14 +404,14 @@ Sponsor: Axs
 Package: com.hitori.misaki
 Version: 2.2
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1049
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
 Filename: ./debs/com.hitori.misaki_2.2_iphoneos-arm64.deb
-Size: 306354
-MD5sum: 1d6601b1aa2200344b82cb6412605951
-SHA1: e0a4536e570cebbd9bbecbeeda7f32b922b9fbea
-SHA256: 391028382a213f4a7c1a05420e7817166792027a526735152cfd97631283002d
+Size: 306344
+MD5sum: c46ee63a9d7800c00c33947c3846d944
+SHA1: c6b599cc6775b3a17e15169ef403a103ca2fa445
+SHA256: 9e657b15947ec8e96b54281dece285dcd88d6e969a9596bc1cc906f6d55aedfb
 Section: Tweaks
 Description: Customize your iOS 15 & 16 experience with Misaki. customization options to make your iPhone truly yours.
 Tag: cydia::commercial, compatible_min::ios15.0
@@ -441,15 +423,15 @@ Name: Misaki
 Package: com.jontelang.instalauncher2
 Version: 1.11.0
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
 Installed-Size: 1188
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
 Conflicts: com.jontelang.instalauncher2.beta
 Filename: ./debs/com.jontelang.instalauncher2_1.11.0_iphoneos-arm64.deb
-Size: 203974
-MD5sum: a9214326f499463e48abaa26ace89077
-SHA1: e30d3cc08b9b4dc70424fc05da782528d7d1cd4b
-SHA256: bff6cf0de56379bf7abfbeae0cca2732e7b532819a6a1e42d9558add107f29de
+Size: 203908
+MD5sum: 7ce1a14fdbc67189f3cf4b88a3d9d6c3
+SHA1: f47bfc1c55c34f799089910a538b1443f00d4a99
+SHA256: ca661bfb45c1444eb26d583c0c182409ead1f8082fad26406a84d46bca9db203
 Section: Tweaks
 Description: Launch ANY app instantly
 Author: Jonathan Winger Lang <jontelang@gmail.com>
@@ -459,13 +441,13 @@ Name: InstaLauncher 2
 Package: com.mikifp.griddy
 Version: 1.0.5
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: mikifp <qiaozhani000@163.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.mikifp.griddy_1.0.5_iphoneos-arm64.deb
-Size: 19948
-MD5sum: b76c3b1bf534cbaec931313c3ab1d7f5
-SHA1: 0d83031dc4e50a613cdb3b52b9654074a592e2b1
-SHA256: 8d67789469228329100dd71059257ce468a89d0a9d43f636fbeb7e741a4a3cb8
+Size: 19904
+MD5sum: 9dbd8b76da68fdc87c99b100998426cb
+SHA1: ba9a659a448925bbc1306acb53a687e91306f1aa
+SHA256: 1170b66aafaa064873d14e157c2a07acefa477f753fc9688e341ebe05e3e31db
 Section: 系统增强
 Description: Make your icons hit the griddy。使用 Griddy 将图标放置在网格上的任意 位置
 Author: mikifp <qiaozhani000@163.com>
@@ -476,14 +458,14 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/js.json
 Package: com.p2kdev.tinge
 Version: 1.2.2
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: P2KDev
 Installed-Size: 436
 Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
 Filename: ./debs/com.p2kdev.tinge_1.2.2_iphoneos-arm64.deb
-Size: 41028
-MD5sum: 11754f9dddc263793cff9546a399915d
-SHA1: 510dbce7922a96ae179e74047d51cc127192b220
-SHA256: 5d4582b0e90318b73736360e4075af270d82762f96bd9a7de9990861a6bdb5a9
+Size: 40992
+MD5sum: b522f62aefb0bf06321a1dada7bf8fbd
+SHA1: 63971f0237f4405bee3631e9d1af7025bc88254a
+SHA256: df8fe667d44c601e63acb450551bcc67e4c193358ca7806af137c0192123a7db
 Section: 系统增强
 Description: Color your badges with Perfection!
 Author: P2KDev
@@ -494,13 +476,13 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/tinge/js.json
 Package: com.sergy.replyactions
 Version: 2.0.0
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.sergy.replyactions_2.0.0_iphoneos-arm64.deb
-Size: 161508
-MD5sum: b7bf48b3a5d884e6a5d46742d1dfc911
-SHA1: 3a78c289e68a1aee344e6982ce4671a5e7aefe37
-SHA256: 9a61c04ae4bce4c248e3c3a4ceff4468d112c9a4fea0519299985d3ffa0cc0fe
+Size: 161476
+MD5sum: ccd96b0f056b8b325c1c1d6979ddf1cf
+SHA1: 1568f4bd6f89fe976fc4634e98875525e089bfdb
+SHA256: ef7daeb121cb166b890dd74eb90ea271666becc1e4db6238a51e8be11a74e9c6
 Section: 系统增强
 Description: Send message the easy way
 Author: sergy
@@ -512,14 +494,14 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/js.json
 Package: com.uckermark.siriplus
 Version: 1.3
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Axs
 Installed-Size: 1744
 Depends: dev.theos.orion (>= 1.0.0), com.opa334.ccsupport, mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.uckermark.siriplus_1.3_iphoneos-arm64.deb
-Size: 272162
-MD5sum: 7732b9866dc2480e89a8b0a130a31a80
-SHA1: 9e5a68d0b3bba2edbd3e40fa92dd63df353e9313
-SHA256: de6b9df3e12e9176a326e0a788b283124b008a4d441c6217ce855b438765a26f
+Size: 272132
+MD5sum: d23ffbcf3f66f4f1c036e1458254fc39
+SHA1: 9238fa572343bfdaa54269eecaa9dfd62b3ec08b
+SHA256: a4ff678174e5fa07fdf3acfde34e403f134a65c50956930b2fef241779bc49c4
 Section: 系统增强
 Author: uckermark
 Icon: https://axs666.github.io/repo/icon/siri.png
@@ -529,13 +511,13 @@ Sileodepiction: https://axs666.github.io/repo/sileodepiction/siriplus/js.json
 Package: me.nebula.ding
 Version: 1.1.0
 Architecture: iphoneos-arm64
-Maintainer: Your Name <your.email@example.com>
+Maintainer: Nebula
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
 Filename: ./debs/me.nebula.ding_1.1.0_iphoneos-arm64.deb
-Size: 25484
-MD5sum: 768c4ec25e6932061d27cc57f217fed2
-SHA1: 277d3c2d444573567e86eece09a36b0fab3bccd8
-SHA256: 492d89a1b478262f865735c6484321b7676e54a2815bad98d5dd225d05d18a48
+Size: 25428
+MD5sum: 3d3d5b17bf809d7ac152eb08564e5fe4
+SHA1: f4a535a09d9cf84cfee715e7f79f76232b86a886
+SHA256: bbfa388a219c38c237f47973e6a26a805f91e017b0ae19e90be751afb0d8f964
 Section: 系统增强
 Description: 静音拨片物理按键自定义其他功能(比如手电筒)
 Author: Nebula
