@@ -344,6 +344,26 @@ Icon: https://axs666.github.io/repo/icon/stella.png
 Name: Stella
 Sileodepiction: https://axs666.github.io/repo/sileodepiction/stella/js.json
 
+Package: com.eliassfeir.smartnetwork
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1272
+Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common
+Conflicts: com.eliassfeir.smartnetwork
+Filename: ./debs/com.eliassfeir.smartnetwork_1.1_iphoneos-arm64.deb
+Size: 286280
+MD5sum: c3abc12b9f61c0e96dc61df68780d608
+SHA1: 0e3000c3ec12350ba05a4a0b9d1b172c51869246
+SHA256: 875a5a10c86250913bbf84a4d8ef9a2007b2e0de4bc63ae80d50ebd619706806
+Section: 系统增强
+Description: 可以信任当前Wi-Fi/蓝牙等，直接解锁手机，其他的功能自己研究。
+Author: elias
+Icon: https://axs666.github.io/repo/icon/smartnetwork.png
+Name: SmartNetwork
+Sileodepiction: https://axs666.github.io/repo/sileodepiction/smartnetwork/js.json
+Sponsor: Axs
+
 Package: com.foxfort.translomatic
 Version: 2.18.31
 Architecture: iphoneos-arm64
@@ -352,10 +372,10 @@ Installed-Size: 5080
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.15), com.opa334.altlist
 Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic, ru.rj.translomatichack, com.hk.translomatic.cn.rl, roothide
 Filename: ./debs/com.foxfort.translomatic_2.18.31_iphoneos-arm64.deb
-Size: 2286961
-MD5sum: 73641f8f27fe7499fc36f531ab15e213
-SHA1: b6960ad1170cd8d004859ce3713a6a9cabd8f0dd
-SHA256: 4869bad51c0d2ebefa3faf6cd49b915b34af32ee4e7ed478b282eea4b62a4cdd
+Size: 1165204
+MD5sum: d8707698ffb3303a98e73da366d4f6a8
+SHA1: 1beb7e53ed2f76f4c667ec1ff0ff40e25a2d90db
+SHA256: e4ebfee11222cf247b7814f6492e9fe64add0a428ea5ef24ce25c056de995f04
 Section: Tweaks
 Description: Quickly translate any text
 Author: FoxfortMobile
@@ -380,6 +400,25 @@ Author: Hitori <mikasa-san@outlook.jp>
 Depiction: https://chariz.com/buy/misaki
 Icon: https://img.chariz.cloud/icon/misaki/icon@3x.png
 Name: Misaki
+
+Package: com.hitori.zeppelinreborn
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
+Provides: com.alexzielenski.zeppelin
+Filename: ./debs/com.hitori.zeppelinreborn_1.4.2_iphoneos-arm64.deb
+Size: 2980844
+MD5sum: ecccd4acbaaa808c0d63bd6dc466cf11
+SHA1: 70d2e538d190a4e683c718c79275e8c05853b764
+SHA256: a2a546528d107a54032b793fd448d98a6f076553bd9d53ec59338b37f84eb1d1
+Section: Tweaks
+Description: 在运营商文本或时间旁边添加图像或GIF！
+Author: Hitori
+Icon: https://axs666.github.io/repo/icon/zeppelinreborn.png
+Name: Zeppelin Reborn个性图标
+Sileodepiction: https://axs666.github.io/repo/sileodepiction/zeppelinreborn/js.json
+Sponsor: Axs
 
 Package: com.jontelang.instalauncher2
 Version: 1.11.0
@@ -416,6 +455,24 @@ Icon: https://axs666.github.io/repo/icon/griddy.png
 Name: Griddy
 Sileodepiction: https://axs666.github.io/repo/sileodepiction/js.json
 
+Package: com.netskao.injectipa
+Version: 1.5-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1064
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.netskao.injectipa_1.5-7_iphoneos-arm64.deb
+Size: 416852
+MD5sum: abcf84e9b10400f7de050f90e038d942
+SHA1: fda02413fb07bf587cd9f9da2e38cefd2bf6f511
+SHA256: c21b7c0df58bbd9b4a9a842db1cc9659bb9ec765af9d04c415c9a25b41adce89
+Section: Tweaks
+Description: InjectIPA Tool
+Author: Netskao
+Icon: https://axs66.github.io/pro/icon/injectipa.png
+Name: injectipa注入器
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/injectipa/js.json
+
 Package: com.p2kdev.tinge
 Version: 1.2.2
 Architecture: iphoneos-arm64
@@ -451,6 +508,40 @@ Depiction: axs
 Icon: https://axs666.github.io/repo/icon/replyactions.png
 Name: ReplyActions
 Sileodepiction: https://axs666.github.io/repo/sileodepiction/js.json
+
+Package: com.spark.libsparkapplist
+Version: 1.1.0~rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 408
+Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
+Size: 24928
+MD5sum: 29e344ff3439538cda2b8dd01ae78ffa
+SHA1: bc69480d43633dc30b5814d0278f2bce81a896ac
+SHA256: ed3c2fd2572100400eda178912aa7c458572ab5f539bce01a6ac4fb387d9b2e2
+Section: System
+Description: AppList alternative
+Tag: role::developer
+Author: Spark
+Name: libSparkAppList
+
+Package: com.tr1fecta.akara
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
+Filename: ./debs/com.tr1fecta.akara_2.0.2_iphoneos-arm64.deb
+Size: 613632
+MD5sum: bfa90e10666338718af23ebd7871b1b1
+SHA1: bb62682307bfe7ef1e2871878d01de6700414bba
+SHA256: f0eb8eca8420981bb7281e7843f57a3c620685507d35647dd162284fc15196c6
+Section: Tweaks
+Description: Minimal design without compromise
+Author: Tr1Fecta & Kennyroo
+Depiction: https://axs666.github.io/repo
+Icon: https://axs666.github.io/repo/icon/akara.png
+Name: Akara控制中心
+Sileodepiction: https://axs666.github.io/repo/sileodepiction/akara/js.json
 
 Package: com.uckermark.siriplus
 Version: 1.3
