@@ -542,6 +542,22 @@ Icon: https://axs666.github.io/repo/icon/siri.png
 Name: SiriPlus
 Sileodepiction: https://axs666.github.io/repo/sileodepiction/siriplus/js.json
 
+Package: jp.uzra.aerial
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: uz.ra
+Installed-Size: 896
+Depends: mobilesubstrate
+Filename: ./debs/jp.uzra.aerial_2.0_iphoneos-arm64.deb
+Size: 166968
+MD5sum: 014acb97e2dd863383b26fda0ffd35b3
+SHA1: 6d92fa9979dbaf88365f9ca7507f022ffcb6b9e7
+SHA256: 5abaa329b7dc85fca1d6d4d9cf982bbdcb844c169dcd05e3cc46d8801952c670
+Section: Tweaks
+Description: Stage Manager, redesigned for iOS
+Author: uz.ra
+Name: Aerial
+
 Package: me.nebula.ding
 Version: 1.1.0
 Architecture: iphoneos-arm64
