@@ -68,24 +68,6 @@ Icon: https://axs666.github.io/repo/icon/safari.png
 Name: SafariX
 Sileodepiction: https://axs666.github.io/repo/sileodepiction/safarix/js.json
 
-Package: com.Axs.aerial
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: uz.ra
-Installed-Size: 692
-Depends: mobilesubstrate
-Filename: ./debs/com.Axs.aerial_1.1_iphoneos-arm64.deb
-Size: 107688
-MD5sum: 2d6ccab68083cde6528d69f0e644d001
-SHA1: b1e001f235b718eea85ecab369b83c72c33a50b9
-SHA256: ae71b48f45dedc447c16d8187c72e4678d6a010b6b0077ba477c07e6212ddc8a
-Section: 分屏插件
-Description: Stage Manager, redesigned for iOS
-Author: uz.ra
-Icon: https://axs666.github.io/repo/icon/aerial.png
-Name: Aerial
-Sileodepiction: https://axs666.github.io/repo/sileodepiction/aerial/js.json
-
 Package: com.Axs.airaw
 Version: 1.6.7
 Architecture: iphoneos-arm64
