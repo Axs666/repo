@@ -423,6 +423,30 @@ Name: Zeppelin Reborn个性图标
 Sileodepiction: https://axs666.github.io/repo/sileodepiction/zeppelinreborn/js.json
 Sponsor: Axs
 
+Package: com.ichitaso.icontweak2
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: ichitaso <willfeeltips+ict@gmail.com>
+Installed-Size: 728
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer, org.ioshack.icontool, com.ichitaso.icontweak, com.fouadraheb.appdata
+Replaces: com.ichitaso.icontweak2
+Filename: ./debs/com.ichitaso.icontweak2_1.0.1_iphoneos-arm64.deb
+Size: 101860
+MD5sum: faa4c0c3b9bf0fb9fc6555242ccd70ac
+SHA1: 1bcf3f1f801dc2a724e015dd88949806c5995c6c
+SHA256: 5a6a8605f7139f7e26c22311e525992a6d7dec3b91697113371095102f196df4
+Section: Tweaks
+Homepage: https://ichitaso.com
+Description: Swipe icons to show control menu and more!
+Tag: purpose::extension, compatible_min::ios15.0, compatible_max::ios18
+Author: ichitaso <willfeeltips+ict@gmail.com>
+Depiction: https://havoc.app/depiction/icontweak
+Dev: ichitaso
+Icon: https://media.havoc.app/620c829f1af6a544121a7c26?w=3840&q=75
+Name: IconTweak2
+Sileodepiction: https://havoc.app/package/icontweak/depiction.json
+
 Package: com.jontelang.instalauncher2
 Version: 1.11.0
 Architecture: iphoneos-arm64
