@@ -603,6 +603,22 @@ Description: Stage Manager, redesigned for iOS
 Author: uz.ra
 Name: Aerial
 
+Package: jp.uzra.aerial
+Version: 2.1.6
+Architecture: iphoneos-arm64
+Maintainer: uz.ra
+Installed-Size: 2268
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.uzra.aerial_2.1.6_iphoneos-arm64.deb
+Size: 1388948
+MD5sum: 14f4d3b856a43a62eafc851d0f816f38
+SHA1: 44ce4c6d707018cf9884c1704b57eebdfc93f70d
+SHA256: ce8254a40edcb8368c5ea8ffcee2b9ed24add0ba3593687f924f09e77b442a19
+Section: Tweaks
+Description: Stage Manager, redesigned for iOS
+Author: uz.ra
+Name: Aerial
+
 Package: me.nebula.ding
 Version: 1.1.0
 Architecture: iphoneos-arm64
